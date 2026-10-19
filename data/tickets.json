@@ -1,0 +1,35 @@
+[
+  {
+    "id": "TCK-1042",
+    "user_id": "USR-001",
+    "title": "Не могу зайти в личный кабинет",
+    "description": "При попытке входа ввожу логин и пароль, после нескольких попыток на экране появилась надпись: Ошибка авторизации ERR_ACCOUNT_LOCKED. Что мне делать?",
+    "error_code": "ERR_ACCOUNT_LOCKED",
+    "category": "auth",
+    "status": "open",
+    "priority": "high",
+    "created_at": "2026-10-19T07:20:00Z"
+  },
+  {
+    "id": "TCK-1043",
+    "user_id": "USR-002",
+    "title": "Вопрос по продлению тарифа",
+    "description": "Подскажите, как перейти с тарифа Pro на Enterprise для всей команды?",
+    "error_code": null,
+    "category": "billing",
+    "status": "open",
+    "priority": "normal",
+    "created_at": "2026-10-19T06:50:00Z"
+  },
+  {
+    "id": "TCK-1044",
+    "user_id": "USR-003",
+    "title": "Приложение аутентификации выдает сбой",
+    "description": "Пытаюсь зайти, код из Google Authenticator не подходит, ошибка ERR_2FA_FAILED",
+    "error_code": "ERR_2FA_FAILED",
+    "category": "auth",
+    "status": "closed",
+    "priority": "medium",
+    "created_at": "2026-10-18T14:35:00Z"
+  }
+]

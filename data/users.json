@@ -1,0 +1,32 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Иван Смирнов",
+    "email": "ivan.smirnov@example.com",
+    "company": "ТехноПарк ООО",
+    "status": "locked",
+    "failed_login_attempts": 5,
+    "2fa_enabled": false,
+    "last_failed_login": "2026-10-19T07:15:00Z"
+  },
+  {
+    "id": "USR-002",
+    "name": "Анна Кузнецова",
+    "email": "anna.k@example.com",
+    "company": "Альфа Ритейл",
+    "status": "active",
+    "failed_login_attempts": 0,
+    "2fa_enabled": true,
+    "last_failed_login": null
+  },
+  {
+    "id": "USR-003",
+    "name": "Сергей Петров",
+    "email": "s.petrov@example.com",
+    "company": "Глобус Медиа",
+    "status": "active",
+    "failed_login_attempts": 1,
+    "2fa_enabled": false,
+    "last_failed_login": "2026-10-18T14:30:00Z"
+  }
+]
